@@ -1,0 +1,117 @@
+<html>
+<body>
+<pre>
+<h1>µVision Build Log</h1>
+<h2>Project:</h2>
+N:\222\lab1\Lab1.uvproj
+Project File Date:  01/20/2017
+
+<h2>Output:</h2>
+Load "N:\\222\\lab1\\Lab1.AXF" 
+No Algorithm found for: 10000000H - 10000133H
+Partial Erase Done (areas with no algorithms skipped!)
+No Algorithm found for: 10000000H - 10000133H
+Partial Programming Done (areas with no algorithms skipped!)
+Partial Verify OK (areas with no algorithms skipped!)
+Build target 'LPC1768_RAM'
+assembling Lab_1_program.s...
+linking...
+Lab1.sct(8): warning: L6314W: No section matches pattern *(InRoot$$Sections).
+Program Size: Code=108 RO-data=204 RW-data=0 ZI-data=512  
+"Lab1.axf" - 0 Error(s), 1 Warning(s).
+Load "N:\\222\\lab1\\Lab1.AXF" 
+No Algorithm found for: 10000000H - 10000133H
+Partial Erase Done (areas with no algorithms skipped!)
+No Algorithm found for: 10000000H - 10000133H
+Partial Programming Done (areas with no algorithms skipped!)
+Partial Verify OK (areas with no algorithms skipped!)
+Build target 'LPC1768_RAM'
+assembling Lab_1_program.s...
+linking...
+Lab1.sct(8): warning: L6314W: No section matches pattern *(InRoot$$Sections).
+Program Size: Code=108 RO-data=204 RW-data=0 ZI-data=512  
+"Lab1.axf" - 0 Error(s), 1 Warning(s).
+Load "N:\\222\\lab1\\Lab1.AXF" 
+No Algorithm found for: 10000000H - 10000133H
+Partial Erase Done (areas with no algorithms skipped!)
+No Algorithm found for: 10000000H - 10000133H
+Partial Programming Done (areas with no algorithms skipped!)
+Partial Verify OK (areas with no algorithms skipped!)
+Build target 'LPC1768_RAM'
+assembling Lab_1_program.s...
+linking...
+Lab1.sct(8): warning: L6314W: No section matches pattern *(InRoot$$Sections).
+Program Size: Code=108 RO-data=204 RW-data=0 ZI-data=512  
+"Lab1.axf" - 0 Error(s), 1 Warning(s).
+Load "N:\\222\\lab1\\Lab1.AXF" 
+No Algorithm found for: 10000000H - 10000133H
+Partial Erase Done (areas with no algorithms skipped!)
+No Algorithm found for: 10000000H - 10000133H
+Partial Programming Done (areas with no algorithms skipped!)
+Partial Verify OK (areas with no algorithms skipped!)
+Build target 'LPC1768_RAM'
+assembling Lab_1_program.s...
+linking...
+Lab1.sct(8): warning: L6314W: No section matches pattern *(InRoot$$Sections).
+Program Size: Code=108 RO-data=204 RW-data=0 ZI-data=512  
+"Lab1.axf" - 0 Error(s), 1 Warning(s).
+Build target 'LPC1768_RAM'
+assembling Lab_1_program.s...
+linking...
+Lab1.sct(8): warning: L6314W: No section matches pattern *(InRoot$$Sections).
+Program Size: Code=108 RO-data=204 RW-data=0 ZI-data=512  
+"Lab1.axf" - 0 Error(s), 1 Warning(s).
+Load "N:\\222\\lab1\\Lab1.AXF" 
+No Algorithm found for: 10000000H - 10000133H
+Partial Erase Done (areas with no algorithms skipped!)
+No Algorithm found for: 10000000H - 10000133H
+Partial Programming Done (areas with no algorithms skipped!)
+Partial Verify OK (areas with no algorithms skipped!)
+Build target 'LPC1768_RAM'
+assembling Lab_1_program.s...
+linking...
+Lab1.sct(8): warning: L6314W: No section matches pattern *(InRoot$$Sections).
+Program Size: Code=108 RO-data=204 RW-data=0 ZI-data=512  
+"Lab1.axf" - 0 Error(s), 1 Warning(s).
+Load "N:\\222\\lab1\\Lab1.AXF" 
+No Algorithm found for: 10000000H - 10000133H
+Partial Erase Done (areas with no algorithms skipped!)
+No Algorithm found for: 10000000H - 10000133H
+Partial Programming Done (areas with no algorithms skipped!)
+Partial Verify OK (areas with no algorithms skipped!)
+Build target 'LPC1768_RAM'
+assembling Lab_1_program.s...
+linking...
+Lab1.sct(8): warning: L6314W: No section matches pattern *(InRoot$$Sections).
+Program Size: Code=108 RO-data=204 RW-data=0 ZI-data=512  
+"Lab1.axf" - 0 Error(s), 1 Warning(s).
+Load "N:\\222\\lab1\\Lab1.AXF" 
+No Algorithm found for: 10000000H - 10000133H
+Partial Erase Done (areas with no algorithms skipped!)
+No Algorithm found for: 10000000H - 10000133H
+Partial Programming Done (areas with no algorithms skipped!)
+Partial Verify OK (areas with no algorithms skipped!)
+Build target 'LPC1768_RAM'
+assembling Lab_1_program.s...
+linking...
+Lab1.sct(8): warning: L6314W: No section matches pattern *(InRoot$$Sections).
+Program Size: Code=108 RO-data=204 RW-data=0 ZI-data=512  
+"Lab1.axf" - 0 Error(s), 1 Warning(s).
+Load "N:\\222\\lab1\\Lab1.AXF" 
+No Algorithm found for: 10000000H - 10000133H
+Partial Erase Done (areas with no algorithms skipped!)
+No Algorithm found for: 10000000H - 10000133H
+Partial Programming Done (areas with no algorithms skipped!)
+Partial Verify OK (areas with no algorithms skipped!)
+Build target 'LPC1768_RAM'
+assembling Lab_1_program.s...
+linking...
+Lab1.sct(8): warning: L6314W: No section matches pattern *(InRoot$$Sections).
+Program Size: Code=108 RO-data=204 RW-data=0 ZI-data=512  
+"Lab1.axf" - 0 Error(s), 1 Warning(s).
+Load "N:\\222\\lab1\\Lab1.AXF" 
+No Algorithm found for: 10000000H - 10000133H
+Partial Erase Done (areas with no algorithms skipped!)
+No Algorithm found for: 10000000H - 10000133H
+Partial Programming Done (areas with no algorithms skipped!)
+Partial Verify OK (areas with no algorithms skipped!)
