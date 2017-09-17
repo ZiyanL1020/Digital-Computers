@@ -13,4 +13,4 @@
 - Implmentation of a reflex meter to measure user response to event, accurate to one tenth of a millisecond
 
 ## Reflex Meter(Interrupt)
-- Implemntation of a relex meter using interrupt instead of polling
+- Implementation of a relex meter using interrupt instead of polling
